@@ -22,6 +22,7 @@ print(f"{d:.2f}")
 
 ```
 ### OUTPUT:
-![output](/distance%20between%20two%20points.png)
+![image](https://github.com/Skathiranand/DISTANCE-BETWEEN-TWO-POINTS/assets/147141136/13cfd0ca-2fd8-4351-b1fd-0ec652b8f348)
+
 ### RESULT:
 Thus Distance between two points executed successfully
